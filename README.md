@@ -1,4 +1,4 @@
-# James Routley Homebrew Tap
+# Homebrew Tap
 
 This repo contains formula for my [Homebrew](https://brew.sh/) packages.
 
@@ -12,4 +12,4 @@ Available packages:
 
 Package | Description
 ---|---
-awscm|AWS credentials manager
+[awscm](https://github.com/jamesroutley/awscm)|AWS credentials manager
