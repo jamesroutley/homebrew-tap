@@ -3,9 +3,9 @@
 
 class Awscm < Formula
   desc "Manage AWS Credentials"
-  homepage ""
-  url "https://github.com/jamesroutley/awscm/releases/download/v2.0.0/awscm-macos-x64.tgz"
-  sha256 "a5c6fa1d223e2157251431dc191ade758194dea9ea883c95e227401f9d5f90b6"
+  homepage "https://github.com/jamesroutley/awscm"
+  url "https://github.com/jamesroutley/awscm/releases/download/v2.1.0/awscm-macos-x64-2-1-0.tgz"
+  sha256 "1860e06baa1ccfe8f1eb7799ac5bfe1c01f22d877618c8f932db6cb9bad6d4aa"
 
   depends_on :arch => :x86_64
 
